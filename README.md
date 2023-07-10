@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a Java Full Stack Developer , I possess a strong foundation in developing and maintaining web applications. <br><br>My proficiency includes expertise in ReactJS, Spring Boot, PostgreSQL, MongoDB, AWS, and other web technologies. <br><br>I have a passion for crafting robust software solutions while keeping up with the latest industry trends and practices.
+As a Full Stack Developer , I possess a strong foundation in developing and maintaining web applications. <br><br>My proficiency includes expertise in TypeScript, Python, ExpressJS, ReactJS, React-Native, Spring Boot, PostgreSQL, MongoDB, AWS, and other web technologies. <br><br>I have a passion for crafting robust software solutions while keeping up with the latest industry trends and practices.
 
 
 ## 🌐 Socials:
