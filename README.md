@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Ask me about Data Science, Machine Learning, and Deep Learning<br><br>🎲 Reach me at fromkishorekumar@gmail.com</p>
+<p align="left">📚 Ask me about Data Analytics, Data Science and Machine Learning<br><br>🎲 Reach me at fromkishorekumar@gmail.com</p>
 
 ###
 
