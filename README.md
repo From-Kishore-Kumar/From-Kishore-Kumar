@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kishore Kumar and I'm a Data Professional from India</p>
+<p align="left">Kishore Kumar here.</p>
 
 ###
 
