@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi everyone! I'm Kishore Kumar, a Data Scientist, passionate about Data Science, Machine Learning, Deep Learning, NLP, Gen AI etc
+Hi everyone! I'm Kishore Kumar, a Data Science Professional, passionate about Data Science, Machine Learning, Deep Learning, NLP, Gen AI etc
 
 
 ## 🌐 Socials:
