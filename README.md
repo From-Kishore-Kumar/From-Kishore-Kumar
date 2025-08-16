@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi everyone! I'm Kishore Kumar, a Python Backend Engineer who has developed and deployed ML Models as API Endpoints and, passionate about System Design, NLP, Gen AI etc
+Hi everyone! I'm Kishore Kumar, a Data Scientist and a Python Backend Engineer who has developed and deployed ML Models as API Endpoints and, passionate about System Design, NLP, Gen AI etc
 
 
 ## 🌐 Socials:
